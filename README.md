@@ -9,7 +9,7 @@
 
 I upload my solved LeetCode problems here.
 
-**Total Problems Solved: 27**
+**Total Problems Solved: 60**
 
 ---
 
